@@ -1,0 +1,2 @@
+# SOTUMAD
+website-publish
